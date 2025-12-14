@@ -68,4 +68,9 @@ Predict whether a client will default on their next credit card payment while mi
 - Git & GitHub
 
 ## 📁 Project Structure
+## 🚀 Next Steps
+- Hyperparameter optimization to further improve recall and stability
+- Advanced cost-sensitive optimization based on business constraints
+- Model monitoring and performance tracking considerations for production
+
 
